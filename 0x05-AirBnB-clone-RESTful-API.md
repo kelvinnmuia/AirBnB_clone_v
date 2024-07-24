@@ -2,7 +2,7 @@
 ## The Domains/Concepts covered in this project: `Python` `Back-end` `API` `Webserver` `Flask`
 
 # More Info
-![alt text](./aribnb_diagram_0.jpg)
+![alt text](./restful-api.png)
 
 ## Install Flask
 
@@ -837,3 +837,4 @@ guillaume@ubuntu:~/AirBnB_v3$
   * [Modular Applications with Blueprints](https://flask.palletsprojects.com/en/1.1.x/blueprints/)
   * [Flask tests](https://flask.palletsprojects.com/en/1.1.x/testing/)
   * [Flask-CORS](https://flask-cors.readthedocs.io/en/latest/)
+  * [REST API & AirBnB](https://docs.google.com/document/d/1HymPJcR-dw35lrxzlbc5S9JNey0N7LK4BM4Q1iNvVi0/edit?usp=sharing)
